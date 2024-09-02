@@ -16,10 +16,10 @@ function App() {
   }
 
   return (
-    <div style={{ display: "flex", flexDirection: "column"}}>
+    <div>
       <Header />
       <CreateArea addlist={addList} />
-      <div className="clearfix">
+      <div>
         {list.map((note, index) => (
           <Note
             key={index}

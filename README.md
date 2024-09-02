@@ -1,4 +1,4 @@
-# Keeper App V1.0
+# Keeper App V2.0
 
 A **simple**,**unique** and **stylish** Keeper application developed with the use of **FrontEnd** only.
 
@@ -7,12 +7,12 @@ A **simple**,**unique** and **stylish** Keeper application developed with the us
 Deployed Application (V 1.0): [Code Sandbox](https://hs3tk4-5173.csb.app/)  
 You have to wait for atleast 1 min until website loads.  
 
-![Keep Application](./images/home.png)
+![Keep Application](./images/home.jpg)
 
 ## Technologies used
 
   * HTML, CSS, **Bootstrap V5.3**
-  * Javascript, React.Js
+  * Javascript, React.Js: Hooks, State
 
 ## Features
 
